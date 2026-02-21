@@ -1,2 +1,2 @@
 # MyTrigonometricMethods
-Java program to demonstrate trigonometrical methods.
+Java program to demonstrate trigonometric methods.
